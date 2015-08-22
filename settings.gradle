@@ -1,0 +1,3 @@
+//include ":grails-jesque"
+//
+//project(":grails-jesque").projectDir = file("../grails-jesque")
